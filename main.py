@@ -1,6 +1,5 @@
 import asyncio
-import datetime
-import threading 
+import datetime 
 import sys
 
 from bleak import BleakScanner
